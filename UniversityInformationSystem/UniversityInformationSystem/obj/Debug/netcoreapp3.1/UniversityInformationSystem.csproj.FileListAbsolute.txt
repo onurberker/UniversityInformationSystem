@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.exe
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.deps.json
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.runtimeconfig.json
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.dll
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\bin\Debug\netcoreapp3.1\UniversityInformationSystem.pdb
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\obj\Debug\netcoreapp3.1\UniversityInformationSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\obj\Debug\netcoreapp3.1\UniversityInformationSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\obj\Debug\netcoreapp3.1\UniversityInformationSystem.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\obj\Debug\netcoreapp3.1\UniversityInformationSystem.dll
+C:\Users\Lenovo\Desktop\UniversityInformationSystem\UniversityInformationSystem\obj\Debug\netcoreapp3.1\UniversityInformationSystem.pdb
